@@ -40,3 +40,8 @@ Content-Type: application/json
 ### verificar se post OK
 
 GET http://localhost:8080/gestao/v4@gmail.com
+
+
+###
+
+http://localhost:8080/gestao/performance/sem-paginacao
